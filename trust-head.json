@@ -1,0 +1,1 @@
+{"schema":1,"protocol":"innkeeper-trust-head-v1","event_scope":"event-c901863ad26f327e62840d14364d5484","lineage":"aa78d223-7193-4edf-bcdd-00bf106913c8","epoch":1,"action":"ROTATE","path":"trust-transition-epoch-000001.json","sha256":"3f54e15b1cc9574dfd578022c19b0c7df2990dda0c05db06b30fb88c4edca05c"}
